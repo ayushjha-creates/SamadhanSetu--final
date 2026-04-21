@@ -9,6 +9,9 @@ out/
 build/
 dist/
 
+# Lock files (optional - use if you prefer)
+# package-lock.json
+
 # Environment
 .env
 .env.local
