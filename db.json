@@ -1,0 +1,59 @@
+{
+  "users": [
+    {
+      "id": "74dc72da-83cb-4b01-9891-144b7555de98",
+      "email": "admin@samadhan.gov",
+      "password": "$2a$10$Cue8GjW4kzDpAQT/02QmyeWk0VsP4BGRVK5XN1MiQBz9JRd12/1xG",
+      "full_name": "Admin User",
+      "username": "admin",
+      "phone": "1234567890",
+      "birthdate": "1990-01-01",
+      "role": "admin",
+      "created_at": "2026-04-21T19:07:46.807Z"
+    },
+    {
+      "id": "edfd4de6-b6f5-4189-8184-4aa30bf7d465",
+      "email": "official@bhopal.gov",
+      "password": "$2a$10$Ri/SlqyGifsxKsC8znTxY.og1RqZ4YhXdPUG5Gr/NJkYXDt0o19xu",
+      "full_name": "City Official",
+      "username": "cityofficial",
+      "phone": "9876543210",
+      "birthdate": "1985-05-15",
+      "role": "cityofficial",
+      "created_at": "2026-04-21T19:07:46.868Z"
+    }
+  ],
+  "reports": [
+    {
+      "title": "Test Report",
+      "description": "Testing persistence",
+      "category": "pothole",
+      "location": {
+        "lat": 23.25,
+        "lng": 77.4,
+        "address": "Test"
+      },
+      "image_url": "",
+      "status": "new",
+      "priority": "high",
+      "by": "anonymous",
+      "id": "c0605521-67d7-4252-b946-2acff4490123",
+      "upvotes": 0,
+      "created_at": "2026-04-21T19:08:07.936Z",
+      "updated_at": "2026-04-21T19:08:07.936Z"
+    }
+  ],
+  "donations": [
+    {
+      "cause_id": "flood",
+      "cause_name": "Flood Relief",
+      "amount": 100,
+      "donor_name": "ayush jha",
+      "message": "",
+      "id": "da31f11b-e349-40bc-926c-9069cbaa1006",
+      "created_at": "2026-04-21T19:10:48.735Z"
+    }
+  ],
+  "chatMessages": [],
+  "reels": []
+}

@@ -1,0 +1,7 @@
+{
+  "/api/reports/route": "app/api/reports/route.js",
+  "/login/page": "app/login/page.js",
+  "/ecovoice/page": "app/ecovoice/page.js",
+  "/donation/page": "app/donation/page.js",
+  "/home/page": "app/home/page.js"
+}
